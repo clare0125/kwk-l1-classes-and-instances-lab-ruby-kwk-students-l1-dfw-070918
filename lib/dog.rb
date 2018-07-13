@@ -5,5 +5,7 @@ class Dog
     @fido = fido
   end
   
-  def 
+  def fido
+    @fido
+  end
 end
